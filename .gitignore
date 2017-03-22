@@ -1,0 +1,12 @@
+## Idea
+*.iml
+/.idea/
+
+## Java
+**/target/
+
+## Eclipse
+
+.project
+.classpath
+**/.settings/
